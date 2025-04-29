@@ -1,3 +1,4 @@
 "checkpoints" 
 "*.pth" 
 "vqaenv310/" 
+"__pycache__/" 
