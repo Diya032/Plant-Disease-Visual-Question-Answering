@@ -54,7 +54,30 @@ Takes care of:
 
 ---
 
+## Colab Link Of Fine-Tuning Of BLIP with FLAN T5 Enhancement
+
+https://colab.research.google.com/drive/1Oc7mS-1qEec_yBujLHC-Xu4JDNxAMxVZ?usp=sharing
+
+---
+
+
+## Research Paper
+
+
+[Visual Question Answering of Plant Disease with BLIP and FLAN-T5 Enhancement Final Draft (3).pdf](https://github.com/user-attachments/files/19970194/Visual.Question.Answering.of.Plant.Disease.with.BLIP.and.FLAN-T5.Enhancement.Final.Draft.3.pdf)
+
+---
+
+## Plant Disease Visual Question Answering (VQA) Presentation
+
+
+[Major Project Presentation (1).pdf](https://github.com/user-attachments/files/19970210/Major.Project.Presentation.1.pdf)
+
+
+---
+
 ## Authors / Contributers 
 
 - [@DiyaKhajuria](https://www.github.com/Diya032)
+- [@arushisinhaa](https://github.com/arushisinhaa)
 
